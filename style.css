@@ -3,7 +3,6 @@
     overflow: hidden;
 }
 .topnav a {
-    float: left;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -18,4 +17,23 @@
     background-color: #04aa6d;
     color: wheat;
 
+}
+h1 {
+    background-color: #04aa6d;
+    border: black;
+    border-radius: 0%;
+    border-style: double;
+}
+.img {
+    float:right;
+    padding: 10vh;
+}
+body {
+    background-color: #04aa6d;
+}
+    p {
+    font-style: oblique;
+    font-size: large;
+    border-style: double;
+    padding: 4vh;
 }
