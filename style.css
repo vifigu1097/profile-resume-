@@ -21,12 +21,13 @@
 h1 {
     background-color: #04aa6d;
     border: black;
-    border-radius: 0%;
+    border-radius: 10px;
     border-style: double;
 }
-.img {
+ img {
     float:right;
-    padding: 10vh;
+    padding: ;
+    border-style: double;
 }
 body {
     background-color: #04aa6d;
@@ -36,4 +37,7 @@ body {
     font-size: large;
     border-style: double;
     padding: 4vh;
+}
+.containeer{
+    display: inline;
 }
