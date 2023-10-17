@@ -23,14 +23,18 @@ h1 {
     border: black;
     border-radius: 10px;
     border-style: double;
+    font-style: oblique;
+    font-size: x-large;
+    
 }
  img {
     float:right;
-    padding: ;
+    padding: 0;
     border-style: double;
 }
 body {
     background-color: #04aa6d;
+    
 }
     p {
     font-style: oblique;
