@@ -25,12 +25,18 @@ h1 {
     border-style: double;
     font-style: oblique;
     font-size: x-large;
-    
+    text-align: center;
+}
+nav{
+    text-align: center;
+    font-style: oblique;
 }
  img {
     float:right;
-    padding: 0;
+    inline-size: auto;
+    padding: 10;
     border-style: double;
+    
 }
 body {
     background-color: #04aa6d;
@@ -42,6 +48,14 @@ body {
     border-style: double;
     padding: 4vh;
 }
-.containeer{
+.container{
     display: inline;
+}
+h2{
+    text-align: center;
+}
+.img1 {
+    float: right;
+    inline-size: auto;
+    height: ;
 }
